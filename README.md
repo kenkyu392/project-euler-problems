@@ -2,7 +2,7 @@
 
 My solutions to [Project Euler](https://projecteuler.net/) problems are published in several programming languages.
 
-| Problem                       | [Go](https://github.com/kenkyu392/go-euler-problems)                              | [Rust](https://github.com/kenkyu392/rust-euler-problems)                                        |
+| Problem                       | [Go](https://kenkyu392.github.io/go-euler-problems)                               | [Rust](https://kenkyu392.github.io/rust-euler-problems)                                         |
 | ----------------------------- | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | 1: Multiples of 3 and 5       | [main.go](https://github.com/kenkyu392/go-euler-problems/blob/master/001/main.go) | [main.rs](https://github.com/kenkyu392/rust-euler-problems/blob/master/problem-001/src/main.rs) |
 | 2: Even Fibonacci numbers     | [main.go](https://github.com/kenkyu392/go-euler-problems/blob/master/002/main.go) | [main.rs](https://github.com/kenkyu392/rust-euler-problems/blob/master/problem-002/src/main.rs) |
