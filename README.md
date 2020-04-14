@@ -1,4 +1,4 @@
-# euler-problems
+# Project Euler
 
 My solutions to [Project Euler](https://projecteuler.net/) problems are published in several programming languages.
 
